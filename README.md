@@ -5,4 +5,4 @@
 
 ## Como usar GitHub: 
 
-[Guia de GitHub(https://github.com/GSoft-SharePoint/Dynamite/wiki/Git-step-by-step:-Part-1)] 
+Guia de GitHub: https://github.com/GSoft-SharePoint/Dynamite/wiki/Git-step-by-step:-Part-1
